@@ -44,7 +44,7 @@ return {
 				"dockerls",
 				"jsonls",
 				"ltex",
-				"openscad_ls",
+				"openscad_lsp",
 				"powershell_es",
 				"millet",
 				"yamlls",
