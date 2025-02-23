@@ -52,7 +52,6 @@ return {
 				"c_sharp",
 				"cpp",
 				"gdscript",
-				"gdresource",
 				"gpg",
 				"kotlin",
 				"latex",
