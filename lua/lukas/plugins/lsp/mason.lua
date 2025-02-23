@@ -24,7 +24,7 @@ return {
 		})
 
 		mason_lspconfig.setup({
-			-- list of servers for mason to install
+			-- List of servers for mason to install
 			automatic_installation = {},
 			ensure_installed = {
 				"vtsls",
@@ -37,6 +37,19 @@ return {
 				"emmet_ls",
 				"prismals",
 				"pyright",
+				"asm_lsp",
+				"bashls",
+				"harper_ls",
+				"cmake",
+				"dockerls",
+				"jsonls",
+				"ltex",
+				"openscad_ls",
+				"powershell_es",
+				"millet",
+				"yamlls",
+				"angularls",
+				"ansiblels",
 			},
 		})
 
@@ -46,6 +59,7 @@ return {
 				"stylua", -- lua formatter
 				"isort", -- python formatter
 				"black", -- python formatter
+				"shfmt", -- sh formatter
 				"pylint", -- python linter
 				"eslint_d", -- js linter
 			},
