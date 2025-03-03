@@ -43,7 +43,7 @@ return {
 				"cmake",
 				"dockerls",
 				"jsonls",
-				"ltex",
+				"ltex_plus",
 				"openscad_lsp",
 				"powershell_es",
 				"millet",
