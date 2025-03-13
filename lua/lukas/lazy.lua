@@ -14,7 +14,7 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
-	{ import = "lukas.plugins.colorschemes" },
+	--	{ import = "lukas.plugins.colorschemes" },
 	{ import = "lukas.plugins" },
 	{ import = "lukas.plugins.lsp" },
 }, {
